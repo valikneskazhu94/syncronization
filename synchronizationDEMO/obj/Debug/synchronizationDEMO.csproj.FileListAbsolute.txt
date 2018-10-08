@@ -1,0 +1,6 @@
+c:\users\mak\documents\visual studio 2017\Projects\synchronizationDEMO\synchronizationDEMO\obj\Debug\synchronizationDEMO.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\synchronizationDEMO\synchronizationDEMO\bin\Debug\synchronizationDEMO.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\synchronizationDEMO\synchronizationDEMO\bin\Debug\synchronizationDEMO.exe
+c:\users\mak\documents\visual studio 2017\Projects\synchronizationDEMO\synchronizationDEMO\bin\Debug\synchronizationDEMO.pdb
+c:\users\mak\documents\visual studio 2017\Projects\synchronizationDEMO\synchronizationDEMO\obj\Debug\synchronizationDEMO.exe
+c:\users\mak\documents\visual studio 2017\Projects\synchronizationDEMO\synchronizationDEMO\obj\Debug\synchronizationDEMO.pdb
